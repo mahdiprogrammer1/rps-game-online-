@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/mahdiprogrammer1/rps-game-online-
 cd rps-game-online-
-npm start
+npm run dev
 ```
 # نکته ⚠️
-typescript و ری اکت حتما باید تو سیستمون نصب باشه
+ری اکت و vite باید روی سیستم تون نصب باشه 
