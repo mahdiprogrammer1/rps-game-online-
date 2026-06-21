@@ -4,6 +4,6 @@
 اول پروژه کلون کنید بعد اجرا کنید:
 ```bash
 git clone https://github.com/mahdiprogrammer1/rps-game-online-
-cd https://github.com/mahdiprogrammer1/rps-game-online-
+cd rps-game-online-
 npm start
 ```
